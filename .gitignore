@@ -181,3 +181,8 @@ models/
 data
 .dev
 poetry.lock
+
+# Mandark
+mandark-history.json
+mandark_history.json
+
